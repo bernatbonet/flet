@@ -4,6 +4,9 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/basic-auth/storage" />
+      <excludeFolder url="file://$MODULE_DIR$/tixkeep/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tixkeep/storage" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (fleet)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
